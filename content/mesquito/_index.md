@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mesquito
-weight: 5
+weight: 4
 summary: The annoying WAF loader
 params:
     image: /mesquito/mesquito.png
