@@ -32,8 +32,7 @@ If this still does not work/did not fix your issue, continue on.
 2. If you are comfortable with doing so, open up your Kindle and unplug the battery. Then just plug it back in.
 
 ## Accessing your Kindle with a Computer
-> [!IMPORTANT]  
-> If you are not able to access your Kindle with a computer, this guide will not work for you. Please read the warning above for next steps.
+<p class="important">If you are not able to access your Kindle with a computer, this guide will not work for you. Please read the warning above for next steps.</p>
 
 This portion of the guide will help you gain access to your Kindle's filesystem.
 
