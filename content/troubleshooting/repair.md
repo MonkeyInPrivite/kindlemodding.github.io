@@ -7,7 +7,7 @@ weight: 6
 
 # Unbricking a Kindle
 
-<p class="caution">This guide will only cover simple bootloops, more complex bricks or "hard bricks" are usually much more complex and unknown. Please ask in the <a href="http://discord.kindlemodding.org/">Kindle Modding Discord Server</a> for support if this is your scenario.</p>
+<p class="caution">This guide will only cover simple bootloops, more complex bricks or "hard bricks" are usually much more complex and unknown. Please go to the <a href="http://discord.kindlemodding.org/">Kindle Modding Discord Server</a> for support if this is your scenario.</p>
 
 Sometimes things go wrong when jailbreaking or messing around. Here is a known method of fixing most bricks.
 
