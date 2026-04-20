@@ -44,6 +44,9 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
         <div class="step">
             <h2>Extracting/Copying KUAL</h2>
             <div class="stepContent">
+                <p class="note">
+                    If your device is older than the K5, you only need to copy the <code>KUAL-KDK-1.0.azw2</code> file to your Kindle's <code>documents</code> folder, you can skip the next steps
+                </p>
                 <p>If you downloaded KUAL for legacy devices, extract the .tar.xz file you downloaded to get the <code>Update_KUALBooklet_*_install.bin</code> file</p>
                 <p>The above step does not apply if you downloaded KUAL (Coplate)</p>
                 <br/>
@@ -91,3 +94,4 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
 - Try copying the `Update_KUALBooklet_hotfix_*_install.bin` file to the root of your Kindle when connected to your PC, and then go to `Settings` > `Update Your Kindle`, then resume from `step 5`
 - Make sure you have around `500 MB` of free space available
 - Try restarting the Kindle if the `;log mrpi` command is not responding
+- Ensure that the file does not have any special characters such as brackets in it, some browsers may rename files adding `(1)` or other additional suffixes to the file name and these should be removed before copying to the Kindle
