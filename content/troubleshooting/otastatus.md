@@ -18,8 +18,8 @@ OTA Blocking is one of the most important steps when it comes to jailbreaking, a
 
 ## [BinaryRenamer](https://www.mobileread.com/forums/showthread.php?p=4380046) Script
 <p class="important">This is a separate OTA blocking app.</p>
-1. Open KUAL
-2. Open the BinaryRenamer menu.
+1. Open KUAL  
+2. Open the BinaryRenamer menu.  
 3. If the OTA button says "Restore OTA Updates" then OTA's are blocked.
 
 ## Credits
