@@ -21,17 +21,15 @@ Filling the Kindle's storage (leaving only 50-90 MB free) prevents the device fr
 
 ## How to Fill the Kindle's Storage
 
-<p class="warning">
-Delete `update-whatever.bin` OR `update.partial.bin`, and turn on Airplane Mode!
-</p>
+> [!WARNING]
+> Delete `update-whatever.bin` OR `update.partial.bin`, and turn on Airplane Mode!
 
 You can use a simple script to fill your Kindle's storage with dummy files, leaving only a small amount of free space. This script is available in the [Kindle-Filler-Disk GitHub repository](https://github.com/bastianmarin/Kindle-Filler-Disk/) along with other useful scripts for Windows, macOS, and Linux.
 
-<p class="warning">
-This script will not work on 11th generation Kindles and newer, as these devices use MTP (Media Transfer Protocol) instead of standard USB storage when connected to a computer
-
-If this is your situation, please follow the special <a href="../../troubleshooting/fillingstorage">MTP Guide</a> instead.
-</p>
+> [!WARNING]
+> This script will not work on 11th generation Kindles and newer, as these devices use MTP (Media Transfer Protocol) instead of standard USB storage when connected to a computer
+>
+> If this is your situation, please follow the special [MTP Guide](../../troubleshooting/fillingstorage) instead.
 
 <div id="guide">
     <div class="buttons">
