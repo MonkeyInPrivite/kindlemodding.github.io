@@ -14,11 +14,19 @@ Yep, There's a appstore for your jailbroken Kindle, and it has everything from [
 3. Copy the `KindleForge` folder and `KindleForge.sh` into your Kindle's documents folder.
 
 ## Updating and Troubleshooting
-In order to update KindleForge, you have to open the app, click the 3 dots on top of your screen, and click "Update KForge". 
-**NOTE:** On versions older than 4.0.8, you must delete the `KindleForge` and `KindleForge.sh` folder and file, download the latest release, and follow the installation instructions.
+### Versions >= 4.0.9
+
+1. Open KindleForge
+2. Click the 3 dots on top of your screen
+3. Click "Update KForge".
+### Versions <= 4.0.8
+1. Delete the `KindleForge` folder
+2. Delete the `KindleForge.sh` file
+3. Follow the install instructions
 
 For any other issues, join the [KindleTweaks Discord Server](https://discord.gg/aSG3eMsAsW).
 
 # Credits
+- [MonkeyInPrivite](https://github.com/MonkeyInPrivite) - Wrote the Updating and Troubleshooting section
 - [GreenCat777](https://github.com/GreenCat-777) - Wrote the Installation Section
 - [KindleTweaks Organization](https://github.com/KindleTweaks) - Created KindleForge
