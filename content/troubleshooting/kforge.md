@@ -6,7 +6,7 @@ weight: 7
 ---
 
 # Installing KindleForge
-Yep, There's a appstore for your jailbroken Kindle, and it has everything from KUAL, KOReader, an [OTA checker](./otastatus), [Alpine Linux](./alpine), and more!
+Yep, There's a appstore for your jailbroken Kindle, and it has everything from [KUAL](../jailbreaking/post-jailbreak/installing-kual-mrpi), KOReader, an [OTA checker](./otastatus), [Alpine Linux](./alpine), and more!
 
 ## Official KindleForge Install Guide
 1. Get the [latest release](https://github.com/KindleTweaks/KindleForge/releases/latest/download/KindleForge.zip) from the official KindleForge GitHub.
