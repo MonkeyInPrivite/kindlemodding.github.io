@@ -10,8 +10,7 @@ weight: 4
 If you don't have ads enabled and would like to use [AdBreak](../jailbreaking/AdBreak/), you will need to turn on the ads (or "special offers") in order to jailbreak.
 
 # In-Depth Guide
-> [!IMPORTANT]
-> If you have any issues along the way, check the linked troubleshooting section.
+<p class="important">If you have any issues along the way, check the linked troubleshooting section.</p>
 
 1. Go to https://amazon.com
 2. On mobile, click on your account, click "See all options", and click on "Devices"
