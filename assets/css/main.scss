@@ -451,6 +451,8 @@ textarea {
     max-width: 1000px;
     box-sizing: border-box;
     padding-bottom: 1em;
+    min-height: 100vh;
+    flex-shrink: 0;
 }
 
 .footer {
@@ -460,7 +462,22 @@ textarea {
     align-items: center;
     padding: 1.5em;
     border-top: 2px solid var(--border-colour);
+    overflow-x: clip;
+}
 
+.footer .adsbygoogle
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    overflow-x: clip;
+    margin-top: 1.5em;
+}
+
+.footer .adsbygoogle[data-ad-status="unfilled"]
+{
+    display: none;
 }
 
 .slideshow, .carousel, .swiper, [class*="slide"]:not(.slide-in-left) {
