@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Troubleshooting Kindle Issues
+title: Other Guides
 weight: 2
 ---
 

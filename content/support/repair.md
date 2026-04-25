@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Troubleshooting Kindle Issues
+parent: Other Guides
 title: Unbricking a Kindle
 weight: 6
 ---

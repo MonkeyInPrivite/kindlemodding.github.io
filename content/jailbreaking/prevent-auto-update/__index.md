@@ -29,7 +29,7 @@ You can use a simple script to fill your Kindle's storage with dummy files, leav
 > [!WARNING]
 > This script will not work on 11th generation Kindles and newer, as these devices use MTP (Media Transfer Protocol) instead of standard USB storage when connected to a computer
 >
-> If this is your situation, please follow the special [MTP Guide](../../troubleshooting/fillingstorage) instead.
+> If this is your situation, please follow the special [MTP Guide](../../support/fillingstorage) instead.
 
 <div id="guide">
     <div class="buttons">

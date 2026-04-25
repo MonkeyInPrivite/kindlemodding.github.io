@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Troubleshooting Kindle Issues
+parent: Other Guides
 title: Checking OTA Status
 weight: 2
 ---
 
 # Checking OTA Status
 <p class="tip">
-Also avalible on <a href="./kforge">KindleForge</a>!</p>
+Also available on <a href="./kforge">KindleForge</a>!</p>
 
 OTA Blocking is one of the most important steps when it comes to jailbreaking, and you may want to make sure that you did it right. 
 
