@@ -11,16 +11,17 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
 
 <div id="guide">
     <div class="buttons">
-        <button class="btn btn-orange" id="prev">Previous Step</button>
+        <button id="prev">Previous Step</button>
         <span id="stepCounter"></span>
-        <button class="btn btn-green" id="next">Next Step</button>
+        <button id="next">Next Step</button>
     </div>
     <div id="stepwrapper" class="stepwrapper">
         <div class="step">
             <h2>Download MRPI</h2>
             <div class="stepContent">
-                <a class="button" href="./kual-mrinstaller-khf.tar.xz">MRPI</a>
+                <a class="button" href="./kual-mrinstaller-khf.zip">MRPI (for modern devices)</a>
                 <p>This version of MRPI is provided by <a href="https://fw.notmarek.com/khf/">Marek</a></p>
+                <a class="button" href="./kual-mrinstaller.zip">MRPI (for legacy devices - pre-K5)</a>
                 <p class="important">You may need to free up 150 MB of space to install both MRPI and KUAL <a href="#troubleshooting">without issues</a></p>
             </div>
         </div>
@@ -30,7 +31,7 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
                 <a class="button" href="./Update_KUALBooklet_HDRepack.bin">KUAL (Coplate) - For Kindles newer than the K5 (any kindle released after 2012)</a>
                 <p>The above version of KUAL is provided by <a href="https://hackerdude.tech">Hackerdude</a></p>
                 <br/>
-                <a class="button" href="./KUAL-v2.7.37-gfcb45b5-20250419.tar.xz">KUAL - For legacy devices</a>
+                <a class="button" href="./KUAL-v2.7.37-gfcb45b5-20250419.zip">KUAL - For legacy devices</a>
                 <a class="button" href="https://github.com/KindleTweaks/PEKI" style="margin-top: 10px;">PEKI - Follow this guide instead if Coplate is broken</a>
             </div>
         </div>
@@ -78,16 +79,16 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
         </div>    
     </div>
     <div class="buttons">
-        <button class="btn btn-orange" id="prev">Previous Step</button>
+        <button id="prev">Previous Step</button>
         <span id="stepCounter"></span>
-        <button class="btn btn-green" id="next">Next Step</button>
+        <button id="next">Next Step</button>
     </div>
 </div>
 <script>new Guide("guide", "../disable-ota.html", "Disabling OTA Updates");</script>
 
 ## Troubleshooting
 
-- The installation or functionality of **KUAL** and **MRPI** may fail if there is not enough free space on your Kindle. If you are using the "[fill storage](../../prevent-auto-update/)" method to block updates, make sure your Kindle has at least `150 MB` of available space before installing KUAL and MRPI
+- The installation or functionality of **KUAL** and **MRPI** may fail if there is not enough free space on your Kindle. If you are using the "[fill storage](../../prevent-auto-update/)" method to block updates, make sure your Kindle has `150 MB` of available space before installing KUAL and MRPI
 - Verify that all folders and files are in the correct locations on your Kindle.
 - Try restarting the Kindle if the `;log mrpi` command is not responding
 - Ensure that the file does not have any special characters such as brackets in it, some browsers may rename files adding `(1)` or other additional suffixes to the file name and these should be removed before copying to the Kindle
