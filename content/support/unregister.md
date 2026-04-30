@@ -2,7 +2,7 @@
 layout: default
 parent: Other Guides
 title: Preserving Files on Deregister
-weight: 7
+weight: 8
 ---
 
 # Preserving files on Deregister
