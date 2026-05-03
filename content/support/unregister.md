@@ -6,6 +6,9 @@ weight: 8
 ---
 
 # Preserving files on Deregister
+
+<p class="tip">Even after following this guide, your files/books may not appear on your homescreen after deregistering. Rest assured, your files have not been deleted. In order to fix this, simply backup the files to your computer, delete them from your Kindle, and copy them back from your computer to your Kindle.</p>
+
 By default, removing your Amazon account from your Kindle, known as "deregistering", will also completely wipe your Kindle. Thankfully, this is relatively easy to bypass by just setting a system flag.
 
 ## Using a Scriptlet
