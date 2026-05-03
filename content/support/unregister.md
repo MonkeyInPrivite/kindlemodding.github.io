@@ -16,3 +16,9 @@ By default, removing your Amazon account from your Kindle, known as "deregisteri
 3. It should automatically appear on your homescreen as a book, if it doesn't, make sure you have [installed the Hotfix](../jailbreaking/post-jailbreak/setting-up-a-hotfix/).
 4. Open it.
 5. If a message pops up then you can now safely deregister.
+
+## With a Command
+1. Open kterm (or any command prompt connected to your Kindle)
+2. Run the command `touch /var/local/DONT_DELETE_CONTENT_ON_DEREGISTRATION`
+
+## With a Computer
