@@ -31,3 +31,6 @@ By default, removing your Amazon account from your Kindle, known as "deregisteri
 2. Move the file to your Kindle.
 3. Using some method, move the file to `/var/local/`.
 4. Confirm that the path looks like `/var/local/DONT_DELETE_CONTENT_ON_DEREGISTRATION`.
+
+[MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Wrote this page 
+[GreenCat777](https://github.com/GreenCat-777) - Wrote the Scriptlet
