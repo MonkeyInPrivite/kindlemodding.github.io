@@ -9,12 +9,11 @@ weight: 9
 
 <p class="caution">While extremely rare, at least one case of this tool bricking a Kindle has been reported. If this ends up happening to you, you should be able to recover by using the <a href="./repair/">Repair Guide</a>. But in any case, be careful and back up any important data!</p>
 
-Believe it or not, but not only can you run Alpine Linux on the Kindle, it is surprisingly easy!
-
-## KindleForge
-Thanks to GreenCat, Alpine Linux is available on the [KindleForge](../kforge) appstore.
+Surprisingly, running Alpine Linux on the Kindle is not only possible, but not very difficult.
 
 ## With a Scriptlet
+<p class="tip">
+Also available on <a href="./kforge">KindleForge</a>!</p>
 1. Click [here](https://github.com/GreenCat-777/QuickAlpine/releases/latest/download/install_alpine.sh) to download the latest release.
 2. Move the file to the documents folder on your Kindle.
 3. Open it from your Kindle's homescreen
