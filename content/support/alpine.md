@@ -7,7 +7,7 @@ weight: 9
 
 # Installing Alpine Linux
 
-<p class="caution">While extremely rare, at least one case of this tool bricking a Kindle has been reported, if this ends up happening to you, you should be able to recover by using the [Repair Guide](./repair/). But in any case, be careful and back up any important data!</p>
+<p class="caution">While extremely rare, at least one case of this tool bricking a Kindle has been reported. If this ends up happening to you, you should be able to recover by using the [Repair Guide](./repair/) But in any case, be careful and back up any important data!</p>
 
 Believe it or not, but not only can you run Alpine Linux on the Kindle, it is surprisingly easy!
 
