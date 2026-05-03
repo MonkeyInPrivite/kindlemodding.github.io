@@ -22,7 +22,7 @@ By default, removing your Amazon account from your Kindle, known as "deregisteri
 
 ## With a Command
 1. Open kterm (or any command prompt connected to your Kindle)
-2. Run the command `touch /var/local/DONT_DELETE_CONTENT_ON_DEREGISTRATION`
+2. Run the command ```touch /var/local/DONT_DELETE_CONTENT_ON_DEREGISTRATION```
 
 ## With a Computer
 <p class="important">As a regular USB connection to the Kindle doesn't provide root access, you will need to use KOReader or an SSH client to move the file to the correct directory.</p>
