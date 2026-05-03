@@ -30,5 +30,5 @@ You have to fill the storage on your Kindle during jailbreaking in order to prev
 2. Simply copy them to your Kindle
 
 ## Credits
-- [MonkeyInPrivite](https://github.com/MonkeyInPrivite) - Wrote this Page
+- [MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Wrote this Page
 - [jannikac](https://github.com/jannikac) - Made the Universal Script
