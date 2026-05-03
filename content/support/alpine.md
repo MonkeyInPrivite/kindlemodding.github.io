@@ -16,8 +16,9 @@ Surprisingly, running Alpine Linux on the Kindle is not only possible, but not v
 Also available on <a href="./kforge">KindleForge</a>!</p>
 
 1. Click [here](https://github.com/GreenCat-777/QuickAlpine/releases/latest/download/install_alpine.sh) to download the latest release.
-2. Move the file to the `documents` folder on your Kindle.
-3. Open it from your Kindle's homescreen.
+2. Move the file to the `documents` folder on your Kindle 
+3. It should automatically appear on your homescreen as a book, if it doesn't, make sure you have [installed the Hotfix](../jailbreaking/post-jailbreak/setting-up-a-hotfix/).
+4. Open it.
 
 ## With KUAL
 <p class="tip">If you're experienced enough, you can even modify this extension to run other versions of Alpine.</p>
