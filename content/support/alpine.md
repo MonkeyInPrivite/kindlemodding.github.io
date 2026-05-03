@@ -29,6 +29,7 @@ Also available on <a href="./kforge">KindleForge</a>!</p>
 4. Click the `Deploy` option to download the latest release from GitHub.
 
 ## Through KTerm
+<p class="tip">You can also do this through an SSH client.</p>
 1. Open [kterm](https://github.com/bfabiszewski/kterm)
 2. Enter and run this command
 ```
