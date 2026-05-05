@@ -38,4 +38,4 @@ Also available on <a href="./kforge">KindleForge</a>!</p>
 ## Credits
 - [MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Wrote this Page 
 - [schuhumi](https://github.com/schuhumi) - Wrote Alpine for Kindle and the KUAL Installer
-- [GreenCat777](https://github.com/GreenCat-777) - Wrote QuickAlpine(including the KTerm link/script), and parts of this page
+- [GreenCat777](https://github.com/GreenCat-777) - Wrote QuickAlpine(including the kterm link/script), and parts of this page
