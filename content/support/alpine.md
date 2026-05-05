@@ -30,11 +30,12 @@ Also available on <a href="./kforge">KindleForge</a>!</p>
 
 ## Through KTerm
 <p class="important">You can also do this through an SSH client.</p>
-<p class="warning">The below script is provided by [GreenCat777](#credits)</p>
+<p class="warning">The below link/script is externally managed by a member of the KMC Support team.</p>
 
 1. Open [kterm](https://github.com/bfabiszewski/kterm)
 2. Enter and run this command: ```sh -c "$(curl -fsSL https://tinyurl.com/alpinek)"```
 
 ## Credits
+- [MonkeyInPrivate](https://github.com/MonkeyInPrivite) - Wrote this Page 
 - [schuhumi](https://github.com/schuhumi) - Wrote Alpine for Kindle and the KUAL Installer
-- [GreenCat777](https://github.com/GreenCat-777) - Wrote QuickAlpine, the KTerm script, and parts of this page
+- [GreenCat777](https://github.com/GreenCat-777) - Wrote QuickAlpine(including the KTerm link/script), and parts of this page
