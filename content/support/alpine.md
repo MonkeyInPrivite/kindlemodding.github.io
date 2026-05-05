@@ -21,7 +21,7 @@ Also available on <a href="./kforge">KindleForge</a>!</p>
 4. Open it.
 
 ## With KUAL
-<p class="note">If you're experienced enough, you can even modify this extension to run other versions of Alpine.</p>
+<p class="note">If you're experienced enough, you can modify this extension to run other versions of Alpine.</p>
 
 1. Download the latest release [here](https://github.com/schuhumi/alpine_kindle_kual/releases/latest/download/alpine_kindle_kual.zip)
 2. Extract the .zip file's contents to the `extensions` folder on your Kindle.
@@ -31,8 +31,7 @@ Also available on <a href="./kforge">KindleForge</a>!</p>
 ## Through KTerm
 <p class="important">You can also do this through an SSH client.</p>
 1. Open [kterm](https://github.com/bfabiszewski/kterm)
-2. Enter and run this command
-```sh -c "$(curl -fsSL https://tinyurl.com/alpinek)"```
+2. Enter and run this command:```sh -c "$(curl -fsSL https://tinyurl.com/alpinek)"```
 
 ## Credits
 - [schuhumi](https://github.com/schuhumi) - Wrote Alpine for Kindle and the KUAL Installer
