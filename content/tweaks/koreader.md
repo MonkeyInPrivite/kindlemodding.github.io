@@ -2,7 +2,7 @@
 layout: default
 parent: Post Jailbreak
 title: Installing KOReader
-weight: 5
+weight: 1
 ---
 
 # Installing KOReader
