@@ -2,7 +2,7 @@
 layout: default
 parent: Post Jailbreak
 title: Installing KindleForge
-weight: 6
+weight: 2
 slug: index
 ---
 
