@@ -62,7 +62,7 @@ weight: 1
     </div>
 </div>
 
-<script>new Guide("guide", "./koreader", "Installing Apps");</script>
+<script>new Guide("guide", "./koreader", "Installing KOReader");</script>
 
 ## Troubleshooting
 
