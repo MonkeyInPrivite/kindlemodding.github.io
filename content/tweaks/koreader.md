@@ -2,7 +2,7 @@
 layout: default
 parent: Popular Apps & Tweaks
 title: Installing KOReader
-weight: 1
+weight: 2
 ---
 
 # Installing KOReader
