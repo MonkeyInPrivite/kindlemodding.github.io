@@ -2,7 +2,7 @@
 layout: default
 parent: Popular Apps & Tweaks
 title: Installing KindleForge
-weight: 2
+weight: 3
 slug: index
 ---
 
