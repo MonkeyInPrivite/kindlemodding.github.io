@@ -2,7 +2,7 @@
 layout: default
 parent: Popular Apps & Tweaks
 title: Re-enabling the Store
-weight: 3
+weight: 1
 ---
 
 # Re-enabling the Store
