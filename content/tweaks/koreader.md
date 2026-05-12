@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Post Jailbreak
+parent: Popular Apps & Tweaks
 title: Installing KOReader
 weight: 1
 ---
