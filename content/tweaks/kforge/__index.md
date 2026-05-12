@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Post Jailbreak
+parent: Popular Apps & Tweaks
 title: Installing KindleForge
 weight: 2
 slug: index
